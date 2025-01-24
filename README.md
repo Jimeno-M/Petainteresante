@@ -1,4 +1,4 @@
-# PETAINTERESANTE
+PETAINTERESANTE
 <h1>Hola, haga clic en el siguiente botón para acceder a nuestro sitio web y disfrutar del contenido:</h1>
 <!DOCTYPE html>
 <html lang="es">
